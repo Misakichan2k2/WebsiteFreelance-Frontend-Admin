@@ -1,0 +1,17 @@
+@import './base.css';
+
+#app {
+  margin: 0;
+  padding: 0;
+}
+
+.background-header {
+  background: linear-gradient(#64e6e2, #85dae3);
+}
+
+.card {
+  background: var(--card-bg);
+  border: var(--card-border);
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
